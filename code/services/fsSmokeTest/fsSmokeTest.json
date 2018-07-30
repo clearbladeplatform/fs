@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,fs",
+    "logging_enabled": "false",
+    "name": "fsSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "fsSmokeTest.js"
+}
